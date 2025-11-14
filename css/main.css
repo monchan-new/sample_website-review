@@ -13,3 +13,8 @@ a:visited {
 .nav-menu a {
     text-decoration: none;
 }
+
+.header-style {
+  padding: 2px 20px; 
+  background-color: #fafafa;
+}
